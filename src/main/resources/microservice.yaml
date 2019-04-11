@@ -21,8 +21,9 @@ cse:
   rest:
     address: 0.0.0.0:8080
   #When a local project is deployed as a container outside a cluster, you need to delete all monitor and credentials comments and configure the AK/SK.
-  #credentials:
-    #accessKey: ak
-    #secretKey: sk
-    #akskCustomCipher: default
-    #project: cn-east-2
+  credentials:
+    accessKey: FDYTYQ1LXNR7LXFHHKNB
+    secretKey: 8BpcHQmij5MNbcSc8cO1ziBvbhtFC47e6ITCEMeE
+    akskCustomCipher: default
+    project: cn-east-2
+

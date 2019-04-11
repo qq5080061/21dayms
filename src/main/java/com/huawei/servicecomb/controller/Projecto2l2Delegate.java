@@ -9,6 +9,6 @@ public class Projecto2l2Delegate {
     public String helloworld(String name){
 
         // Do Some Magic Here!
-        return name;
+        return "helloworld:" + name;
     }
 }
